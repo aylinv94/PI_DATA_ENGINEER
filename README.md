@@ -30,7 +30,7 @@ Como ejemplo de género pueden usar 'comedy', el cuál deberia devolverles un cu
 
 6. Ejecutar consultas solicitadas.
 
-7. Este es el link con el video demostrativo 
+7. Este es el <a href="https://drive.google.com/drive/folders/1p8qDcPm2EF-wWqs8uhsPz2JjAd7IPt2K?usp=share_link">link</a> con el video demostrativo   
 
 8. **PLUS**: realizar un deployment en Mogenius (Pendiente por Ejecutar)
 
